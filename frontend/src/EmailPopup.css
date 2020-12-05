@@ -1,0 +1,21 @@
+.emailContent {
+    margin-left: 10px;
+    font-size: 20px;
+    width: 100%;
+}
+
+.header {
+    padding: 10px;
+}
+
+.rightIcons {
+    display: flex;
+    padding: 10px;
+    position: absolute;
+    right: 0;
+    top: 0px;
+}
+
+.content {
+    height: 100%;
+}
